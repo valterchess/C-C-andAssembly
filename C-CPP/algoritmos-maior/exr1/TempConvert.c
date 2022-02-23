@@ -8,4 +8,3 @@ int main()
     printf("A temperatura informada corresponde a %fº fahrenheit\n", fahren);
     return;
 }
-
